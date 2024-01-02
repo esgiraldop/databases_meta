@@ -5,7 +5,8 @@
 *.pdf
 *.kml
 
-*.pdf
+*.DS_Store
+
 *.pyc
 *.cpython-39.pyc
 *.cpython-310.pyc
@@ -13,9 +14,6 @@ lector/docs_2_analyze/
 lector/__pycache__/
 */__pycache__/
 */migrations/
-
-*.xlsx
-*.csv
 
 # Django stuff:
 *.log
