@@ -1,0 +1,4 @@
+total 16
+-rw-r--r--@ 1 personal  staff  72 Nov 18 20:00 example.js
+-rw-r--r--  1 personal  staff   0 Nov 18 20:01 output.txt
+-rwxr-xr-x  1 personal  staff  31 Nov 18 16:40 testshell.sh
